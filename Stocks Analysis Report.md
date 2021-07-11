@@ -1,23 +1,12 @@
-# Kickstarting with Excel
+# Stocks Analysis Written Report
 
 ## Overview of Project
 
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+## Summary
+- What are the advantages or disadvantages of refactoring code?
+- How do these pros and cons apply to refactoring the original VBA script?
