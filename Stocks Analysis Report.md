@@ -13,11 +13,13 @@ Steve's partents are passionate about green energy and they have some money to i
 
 #### 2017
 For 2017, all of the stocks had a positive return, ranging from RUN at 5.5% to DQ at 199.4%, except for TERP, which had a negative return of -7.2%.
+
 <img width="233" alt="2017 Stocks Analysis" src="https://user-images.githubusercontent.com/85654649/125211770-bd9af700-e276-11eb-8299-f51ac0b460d6.png">
 
 
 #### 2018
 In contrast, for 2018, all of the stocks had a negative return, except for two: ENPH had a postive return of 81.9% and RUN had a positive return of 84%. 
+
 <img width="235" alt="2018 Stocks Analysis" src="https://user-images.githubusercontent.com/85654649/125211782-ce4b6d00-e276-11eb-8734-753dea33685f.png">
 
 #### Looking Across Both Years (2017 and 2018)
