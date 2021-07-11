@@ -26,7 +26,7 @@ In contrast, for 2018, all of the stocks had a negative return, except for two: 
 When looking at 2017 and 2018 as a whole, the only two stocks that had a positive return both years in a row were ENPH and RUN. For 2017, ENPH had a positive return of 129.5% and RUN had a positive return of 5.5%. For 2018, ENPH had a positive return 81.9% and RUN had a positive return of 84%.
 
 ### Execution Times of Original Script and the Refactored Script
-As the screen shots below indicate, the refactored script on both 2017 and 2018 ran faster than the original scripts. the Using images and examples of your code as well as the execution times of the original script and the refactored script.
+As the screen shots below indicate, the refactored script on both 2017 and 2018 ran faster than the original scripts.
 
 #### Original Script 2017
 Ran at 0.20 seconds.
