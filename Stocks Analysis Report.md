@@ -12,6 +12,17 @@ Steve's partents are passionate about green energy and they have some money to i
 ### Comparision of Stock Performance Between 2017 and 2018
 Using images and examples of your code, compare the stock performance between 2017 and 2018,
 
+#### 2017
+For 2017, all of the stocks had a positive return, ranging from RUN at 5.5% to DQ at 199.4%, except for TERP, which had a negative return of -7.2%.
+<img width="233" alt="2017 Stocks Analysis" src="https://user-images.githubusercontent.com/85654649/125211770-bd9af700-e276-11eb-8299-f51ac0b460d6.png">
+
+
+#### 2018
+For 2018, all of the stocks had a negative return, except for two: ENPH had a postive return of 81.9% and RUN had a positive return of 84%. 
+<img width="235" alt="2018 Stocks Analysis" src="https://user-images.githubusercontent.com/85654649/125211782-ce4b6d00-e276-11eb-8734-753dea33685f.png">
+
+#### Looking at Both Years (2017 and 2018)
+When comparing 2017 and 2018, the only two stocks that had a positive return both years in a row were ENPH and RUN. For 2017, ENPH had a 129.5% return and RUN had a 5.5% return. For 2018, ENPH had a 81.9% return and RUN had an 84% return.
 
 ### Execution Times of Original Script and the Refactored Script
 Using images and examples of your code as well as the execution times of the original script and the refactored script.
