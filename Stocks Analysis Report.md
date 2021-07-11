@@ -23,13 +23,19 @@ In contrast, for 2018, all of the stocks had a negative return, except for two: 
 <img width="235" alt="2018 Stocks Analysis" src="https://user-images.githubusercontent.com/85654649/125211782-ce4b6d00-e276-11eb-8734-753dea33685f.png">
 
 #### Looking Across Both Years (2017 and 2018)
-When comparing 2017 and 2018 as a whole, the only two stocks that had a positive return both years in a row were ENPH and RUN. For 2017, ENPH had a positive return of 129.5% and RUN had a positive return of 5.5%. For 2018, ENPH had a positive return 81.9% and RUN had a positive return of 84%.
+When looking at 2017 and 2018 as a whole, the only two stocks that had a positive return both years in a row were ENPH and RUN. For 2017, ENPH had a positive return of 129.5% and RUN had a positive return of 5.5%. For 2018, ENPH had a positive return 81.9% and RUN had a positive return of 84%.
 
 ### Execution Times of Original Script and the Refactored Script
 Using images and examples of your code as well as the execution times of the original script and the refactored script.
+
+#### Original Script 2017
+
+#### Refactored Script 2017
 <img width="283" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/85654649/125211421-38164780-e274-11eb-8ee9-48bcc8a1d833.png">
 
+#### Original Script 2018
 
+#### Refactored Script 2018
 <img width="283" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/85654649/125211425-3b113800-e274-11eb-9016-9297427b7bc6.png">
 
 ## Summary
