@@ -30,18 +30,22 @@ As the screen shots below indicate, the refactored script on both 2017 and 2018 
 
 #### Original Script 2017
 Ran at 0.20 seconds.
+
 <img width="274" alt="2017 Original Script" src="https://user-images.githubusercontent.com/85654649/125212465-972b8a80-e27b-11eb-89df-38cdbe363ad1.png">
 
 #### Refactored Script 2017
 Ran at 0.18 seconds.
+
 <img width="283" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/85654649/125211421-38164780-e274-11eb-8ee9-48bcc8a1d833.png">
 
 #### Original Script 2018
 Ran at 0.20 seconds.
+
 <img width="265" alt="2018 Original Script" src="https://user-images.githubusercontent.com/85654649/125212467-9dba0200-e27b-11eb-8726-ec970cbdeb77.png">
 
 #### Refactored Script 2018
 Ran at 0.18 seconds.
+
 <img width="283" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/85654649/125211425-3b113800-e274-11eb-9016-9297427b7bc6.png">
 
 #### My Refactored AllStocksAnalysis Code
@@ -188,5 +192,8 @@ Two key advantages of refactoring code are optimization and opportunities to imp
 ### Disadvantages of Refactoring Code
 Disadvantages of refactoring code are that is takes time to go back through the code and creates a new risk of errors because anytime you edit your code, you could make an error that breaks the entire script.
 
-### Pros and cons apply to refactoring the original VBA script?
+### Pros to Refactoring the original VBA script
+Similar to the general advantages of refactoring code stated above, refactoring the original VBA script gave me the opporutnity optimize the code and save to,e when running the script. It also enabled me to improve the logic, so that others can read my code more easily.
 
+### Cons to Refactoring the original VBA script
+Similar to the general disadvantages of refactoring code stated above, refactoring the original VBA script took a lot of time to go back through the code to find ways to optimize it. It also increased errors that I had to work through in order to get the new code to work.
